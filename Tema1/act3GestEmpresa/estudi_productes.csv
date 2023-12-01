@@ -1,0 +1,455 @@
+Date,Product line,Quantity
+1/1/2019,Sports and travel,26
+1/1/2019,Electronic accessories,18
+1/1/2019,Food and beverages,18
+1/1/2019,Fashion accessories,9
+1/1/2019,Home and lifestyle,8
+1/1/2019,Health and beauty,2
+1/10/2019,Sports and travel,22
+1/10/2019,Electronic accessories,9
+1/10/2019,Food and beverages,9
+1/10/2019,Fashion accessories,7
+1/10/2019,Home and lifestyle,6
+1/10/2019,Health and beauty,2
+1/11/2019,Food and beverages,27
+1/11/2019,Home and lifestyle,6
+1/11/2019,Sports and travel,6
+1/11/2019,Fashion accessories,1
+1/12/2019,Fashion accessories,29
+1/12/2019,Electronic accessories,18
+1/12/2019,Home and lifestyle,17
+1/12/2019,Sports and travel,13
+1/12/2019,Health and beauty,3
+1/13/2019,Electronic accessories,16
+1/13/2019,Sports and travel,13
+1/13/2019,Health and beauty,9
+1/13/2019,Food and beverages,6
+1/13/2019,Fashion accessories,3
+1/13/2019,Home and lifestyle,3
+1/14/2019,Fashion accessories,19
+1/14/2019,Food and beverages,17
+1/14/2019,Electronic accessories,16
+1/14/2019,Health and beauty,11
+1/14/2019,Sports and travel,1
+1/15/2019,Home and lifestyle,25
+1/15/2019,Electronic accessories,24
+1/15/2019,Health and beauty,17
+1/15/2019,Sports and travel,13
+1/15/2019,Food and beverages,7
+1/15/2019,Fashion accessories,2
+1/16/2019,Home and lifestyle,20
+1/16/2019,Food and beverages,18
+1/16/2019,Sports and travel,18
+1/16/2019,Fashion accessories,5
+1/17/2019,Sports and travel,17
+1/17/2019,Food and beverages,14
+1/17/2019,Home and lifestyle,14
+1/17/2019,Health and beauty,2
+1/18/2019,Fashion accessories,16
+1/18/2019,Sports and travel,15
+1/18/2019,Home and lifestyle,9
+1/18/2019,Food and beverages,8
+1/18/2019,Electronic accessories,5
+1/18/2019,Health and beauty,1
+1/19/2019,Food and beverages,26
+1/19/2019,Electronic accessories,21
+1/19/2019,Home and lifestyle,20
+1/19/2019,Sports and travel,18
+1/19/2019,Fashion accessories,6
+1/2/2019,Sports and travel,15
+1/2/2019,Fashion accessories,11
+1/2/2019,Health and beauty,10
+1/2/2019,Electronic accessories,6
+1/2/2019,Food and beverages,6
+1/20/2019,Home and lifestyle,23
+1/20/2019,Fashion accessories,16
+1/20/2019,Health and beauty,11
+1/20/2019,Sports and travel,6
+1/21/2019,Health and beauty,13
+1/21/2019,Home and lifestyle,12
+1/21/2019,Food and beverages,6
+1/21/2019,Sports and travel,1
+1/22/2019,Home and lifestyle,17
+1/22/2019,Health and beauty,12
+1/22/2019,Food and beverages,5
+1/23/2019,Food and beverages,31
+1/23/2019,Health and beauty,21
+1/23/2019,Fashion accessories,13
+1/23/2019,Electronic accessories,10
+1/23/2019,Home and lifestyle,10
+1/23/2019,Sports and travel,10
+1/24/2019,Electronic accessories,33
+1/24/2019,Sports and travel,26
+1/24/2019,Fashion accessories,11
+1/24/2019,Home and lifestyle,9
+1/24/2019,Health and beauty,5
+1/25/2019,Health and beauty,23
+1/25/2019,Sports and travel,15
+1/25/2019,Fashion accessories,14
+1/25/2019,Food and beverages,12
+1/25/2019,Electronic accessories,9
+1/25/2019,Home and lifestyle,7
+1/26/2019,Fashion accessories,20
+1/26/2019,Sports and travel,15
+1/26/2019,Electronic accessories,14
+1/26/2019,Food and beverages,12
+1/26/2019,Health and beauty,12
+1/26/2019,Home and lifestyle,4
+1/27/2019,Home and lifestyle,21
+1/27/2019,Fashion accessories,16
+1/27/2019,Sports and travel,15
+1/27/2019,Food and beverages,12
+1/27/2019,Health and beauty,12
+1/27/2019,Electronic accessories,11
+1/28/2019,Health and beauty,34
+1/28/2019,Electronic accessories,24
+1/28/2019,Sports and travel,17
+1/28/2019,Food and beverages,7
+1/28/2019,Fashion accessories,5
+1/28/2019,Home and lifestyle,4
+1/29/2019,Sports and travel,25
+1/29/2019,Fashion accessories,19
+1/29/2019,Electronic accessories,11
+1/29/2019,Food and beverages,6
+1/29/2019,Home and lifestyle,5
+1/29/2019,Health and beauty,1
+1/3/2019,Health and beauty,25
+1/3/2019,Home and lifestyle,11
+1/3/2019,Sports and travel,1
+1/30/2019,Electronic accessories,15
+1/30/2019,Food and beverages,15
+1/30/2019,Home and lifestyle,6
+1/30/2019,Sports and travel,3
+1/31/2019,Electronic accessories,38
+1/31/2019,Fashion accessories,28
+1/31/2019,Sports and travel,16
+1/4/2019,Electronic accessories,10
+1/4/2019,Home and lifestyle,10
+1/4/2019,Health and beauty,5
+1/4/2019,Fashion accessories,4
+1/4/2019,Sports and travel,3
+1/5/2019,Home and lifestyle,22
+1/5/2019,Health and beauty,14
+1/5/2019,Fashion accessories,11
+1/5/2019,Electronic accessories,7
+1/5/2019,Food and beverages,1
+1/6/2019,Food and beverages,15
+1/6/2019,Home and lifestyle,12
+1/6/2019,Fashion accessories,11
+1/6/2019,Health and beauty,9
+1/6/2019,Sports and travel,5
+1/7/2019,Home and lifestyle,19
+1/7/2019,Fashion accessories,13
+1/7/2019,Sports and travel,10
+1/7/2019,Food and beverages,7
+1/7/2019,Electronic accessories,4
+1/8/2019,Food and beverages,40
+1/8/2019,Fashion accessories,27
+1/8/2019,Sports and travel,12
+1/8/2019,Home and lifestyle,9
+1/8/2019,Electronic accessories,7
+1/9/2019,Fashion accessories,20
+1/9/2019,Sports and travel,18
+1/9/2019,Home and lifestyle,13
+1/9/2019,Electronic accessories,7
+2/1/2019,Food and beverages,11
+2/1/2019,Electronic accessories,9
+2/1/2019,Home and lifestyle,9
+2/1/2019,Sports and travel,7
+2/1/2019,Health and beauty,4
+2/10/2019,Fashion accessories,24
+2/10/2019,Electronic accessories,19
+2/10/2019,Home and lifestyle,8
+2/10/2019,Food and beverages,5
+2/10/2019,Sports and travel,4
+2/10/2019,Health and beauty,2
+2/11/2019,Food and beverages,20
+2/11/2019,Home and lifestyle,11
+2/11/2019,Fashion accessories,10
+2/11/2019,Health and beauty,9
+2/11/2019,Sports and travel,4
+2/12/2019,Food and beverages,10
+2/12/2019,Home and lifestyle,10
+2/12/2019,Fashion accessories,9
+2/12/2019,Electronic accessories,6
+2/12/2019,Health and beauty,6
+2/12/2019,Sports and travel,2
+2/13/2019,Fashion accessories,14
+2/13/2019,Sports and travel,10
+2/13/2019,Electronic accessories,5
+2/13/2019,Food and beverages,2
+2/14/2019,Food and beverages,12
+2/14/2019,Sports and travel,10
+2/14/2019,Electronic accessories,8
+2/14/2019,Health and beauty,7
+2/15/2019,Health and beauty,31
+2/15/2019,Fashion accessories,23
+2/15/2019,Electronic accessories,20
+2/15/2019,Food and beverages,15
+2/15/2019,Home and lifestyle,13
+2/15/2019,Sports and travel,4
+2/16/2019,Fashion accessories,21
+2/16/2019,Sports and travel,10
+2/16/2019,Food and beverages,7
+2/16/2019,Health and beauty,6
+2/16/2019,Electronic accessories,5
+2/17/2019,Sports and travel,25
+2/17/2019,Electronic accessories,24
+2/17/2019,Food and beverages,16
+2/17/2019,Home and lifestyle,8
+2/17/2019,Fashion accessories,3
+2/17/2019,Health and beauty,3
+2/18/2019,Fashion accessories,10
+2/18/2019,Health and beauty,6
+2/18/2019,Home and lifestyle,6
+2/18/2019,Electronic accessories,2
+2/19/2019,Electronic accessories,26
+2/19/2019,Food and beverages,13
+2/19/2019,Health and beauty,13
+2/19/2019,Sports and travel,7
+2/19/2019,Fashion accessories,2
+2/2/2019,Food and beverages,28
+2/2/2019,Fashion accessories,23
+2/2/2019,Electronic accessories,13
+2/2/2019,Home and lifestyle,10
+2/2/2019,Sports and travel,8
+2/2/2019,Health and beauty,1
+2/20/2019,Food and beverages,25
+2/20/2019,Health and beauty,15
+2/20/2019,Sports and travel,10
+2/20/2019,Home and lifestyle,3
+2/21/2019,Health and beauty,8
+2/21/2019,Fashion accessories,5
+2/21/2019,Electronic accessories,3
+2/21/2019,Sports and travel,2
+2/22/2019,Fashion accessories,25
+2/22/2019,Sports and travel,17
+2/22/2019,Electronic accessories,10
+2/22/2019,Home and lifestyle,6
+2/22/2019,Food and beverages,1
+2/23/2019,Electronic accessories,17
+2/23/2019,Food and beverages,12
+2/23/2019,Sports and travel,7
+2/23/2019,Health and beauty,4
+2/24/2019,Electronic accessories,20
+2/24/2019,Home and lifestyle,18
+2/24/2019,Food and beverages,8
+2/24/2019,Sports and travel,6
+2/24/2019,Health and beauty,5
+2/24/2019,Fashion accessories,2
+2/25/2019,Electronic accessories,22
+2/25/2019,Health and beauty,15
+2/25/2019,Fashion accessories,9
+2/25/2019,Food and beverages,8
+2/25/2019,Sports and travel,7
+2/25/2019,Home and lifestyle,5
+2/26/2019,Food and beverages,15
+2/26/2019,Electronic accessories,8
+2/26/2019,Health and beauty,6
+2/26/2019,Sports and travel,5
+2/26/2019,Fashion accessories,3
+2/27/2019,Health and beauty,32
+2/27/2019,Food and beverages,28
+2/27/2019,Fashion accessories,24
+2/27/2019,Electronic accessories,8
+2/27/2019,Sports and travel,5
+2/28/2019,Fashion accessories,12
+2/28/2019,Electronic accessories,9
+2/28/2019,Food and beverages,6
+2/28/2019,Health and beauty,3
+2/3/2019,Food and beverages,32
+2/3/2019,Sports and travel,27
+2/3/2019,Home and lifestyle,17
+2/3/2019,Fashion accessories,6
+2/4/2019,Electronic accessories,15
+2/4/2019,Home and lifestyle,10
+2/4/2019,Health and beauty,9
+2/4/2019,Fashion accessories,6
+2/4/2019,Food and beverages,5
+2/4/2019,Sports and travel,5
+2/5/2019,Health and beauty,22
+2/5/2019,Food and beverages,16
+2/5/2019,Home and lifestyle,6
+2/5/2019,Sports and travel,5
+2/5/2019,Fashion accessories,3
+2/5/2019,Electronic accessories,2
+2/6/2019,Health and beauty,24
+2/6/2019,Electronic accessories,16
+2/6/2019,Food and beverages,14
+2/6/2019,Home and lifestyle,11
+2/6/2019,Fashion accessories,8
+2/7/2019,Electronic accessories,37
+2/7/2019,Food and beverages,26
+2/7/2019,Home and lifestyle,24
+2/7/2019,Fashion accessories,21
+2/7/2019,Health and beauty,18
+2/7/2019,Sports and travel,2
+2/8/2019,Sports and travel,27
+2/8/2019,Fashion accessories,22
+2/8/2019,Home and lifestyle,14
+2/8/2019,Health and beauty,7
+2/9/2019,Home and lifestyle,16
+2/9/2019,Food and beverages,14
+2/9/2019,Fashion accessories,10
+2/9/2019,Health and beauty,10
+2/9/2019,Sports and travel,10
+2/9/2019,Electronic accessories,9
+3/1/2019,Fashion accessories,20
+3/1/2019,Electronic accessories,13
+3/1/2019,Food and beverages,5
+3/1/2019,Health and beauty,5
+3/1/2019,Home and lifestyle,2
+3/10/2019,Food and beverages,17
+3/10/2019,Home and lifestyle,16
+3/10/2019,Health and beauty,10
+3/10/2019,Sports and travel,8
+3/10/2019,Fashion accessories,5
+3/10/2019,Electronic accessories,3
+3/11/2019,Health and beauty,16
+3/11/2019,Home and lifestyle,15
+3/11/2019,Sports and travel,14
+3/11/2019,Food and beverages,6
+3/11/2019,Electronic accessories,5
+3/11/2019,Fashion accessories,4
+3/12/2019,Health and beauty,18
+3/12/2019,Food and beverages,11
+3/12/2019,Home and lifestyle,11
+3/12/2019,Sports and travel,11
+3/12/2019,Electronic accessories,9
+3/13/2019,Health and beauty,20
+3/13/2019,Fashion accessories,15
+3/13/2019,Food and beverages,12
+3/13/2019,Home and lifestyle,8
+3/13/2019,Sports and travel,2
+3/14/2019,Electronic accessories,40
+3/14/2019,Fashion accessories,21
+3/14/2019,Food and beverages,20
+3/14/2019,Sports and travel,16
+3/14/2019,Health and beauty,10
+3/14/2019,Home and lifestyle,10
+3/15/2019,Health and beauty,20
+3/15/2019,Home and lifestyle,19
+3/15/2019,Fashion accessories,12
+3/15/2019,Sports and travel,11
+3/15/2019,Electronic accessories,4
+3/16/2019,Sports and travel,19
+3/16/2019,Food and beverages,14
+3/16/2019,Electronic accessories,4
+3/16/2019,Fashion accessories,4
+3/16/2019,Home and lifestyle,4
+3/16/2019,Health and beauty,2
+3/17/2019,Sports and travel,16
+3/17/2019,Home and lifestyle,13
+3/17/2019,Fashion accessories,10
+3/17/2019,Food and beverages,1
+3/18/2019,Home and lifestyle,16
+3/18/2019,Sports and travel,5
+3/18/2019,Electronic accessories,4
+3/18/2019,Fashion accessories,2
+3/19/2019,Fashion accessories,28
+3/19/2019,Electronic accessories,25
+3/19/2019,Home and lifestyle,12
+3/19/2019,Health and beauty,11
+3/19/2019,Sports and travel,9
+3/19/2019,Food and beverages,2
+3/2/2019,Home and lifestyle,28
+3/2/2019,Sports and travel,26
+3/2/2019,Electronic accessories,19
+3/2/2019,Health and beauty,10
+3/2/2019,Fashion accessories,8
+3/2/2019,Food and beverages,4
+3/20/2019,Sports and travel,32
+3/20/2019,Home and lifestyle,20
+3/20/2019,Fashion accessories,13
+3/20/2019,Food and beverages,9
+3/20/2019,Electronic accessories,6
+3/21/2019,Electronic accessories,16
+3/21/2019,Home and lifestyle,9
+3/21/2019,Food and beverages,6
+3/21/2019,Sports and travel,4
+3/22/2019,Sports and travel,25
+3/22/2019,Home and lifestyle,17
+3/22/2019,Food and beverages,5
+3/22/2019,Fashion accessories,4
+3/22/2019,Electronic accessories,1
+3/23/2019,Fashion accessories,15
+3/23/2019,Home and lifestyle,15
+3/23/2019,Electronic accessories,10
+3/23/2019,Sports and travel,10
+3/23/2019,Food and beverages,9
+3/23/2019,Health and beauty,8
+3/24/2019,Home and lifestyle,17
+3/24/2019,Electronic accessories,10
+3/24/2019,Sports and travel,10
+3/24/2019,Food and beverages,9
+3/24/2019,Fashion accessories,6
+3/24/2019,Health and beauty,5
+3/25/2019,Electronic accessories,22
+3/25/2019,Food and beverages,10
+3/25/2019,Fashion accessories,5
+3/25/2019,Health and beauty,3
+3/25/2019,Sports and travel,2
+3/26/2019,Health and beauty,16
+3/26/2019,Electronic accessories,12
+3/26/2019,Food and beverages,9
+3/26/2019,Home and lifestyle,9
+3/26/2019,Fashion accessories,5
+3/26/2019,Sports and travel,1
+3/27/2019,Food and beverages,18
+3/27/2019,Fashion accessories,9
+3/27/2019,Health and beauty,8
+3/27/2019,Sports and travel,6
+3/27/2019,Electronic accessories,2
+3/27/2019,Home and lifestyle,2
+3/28/2019,Food and beverages,21
+3/28/2019,Electronic accessories,10
+3/28/2019,Fashion accessories,10
+3/28/2019,Health and beauty,7
+3/29/2019,Health and beauty,37
+3/29/2019,Electronic accessories,14
+3/29/2019,Home and lifestyle,3
+3/3/2019,Electronic accessories,31
+3/3/2019,Home and lifestyle,31
+3/3/2019,Food and beverages,18
+3/3/2019,Health and beauty,14
+3/3/2019,Fashion accessories,1
+3/30/2019,Health and beauty,23
+3/30/2019,Sports and travel,12
+3/30/2019,Food and beverages,10
+3/30/2019,Electronic accessories,8
+3/30/2019,Fashion accessories,8
+3/30/2019,Home and lifestyle,6
+3/4/2019,Health and beauty,24
+3/4/2019,Home and lifestyle,13
+3/4/2019,Food and beverages,12
+3/4/2019,Electronic accessories,10
+3/4/2019,Fashion accessories,9
+3/4/2019,Sports and travel,7
+3/5/2019,Health and beauty,31
+3/5/2019,Home and lifestyle,24
+3/5/2019,Sports and travel,17
+3/5/2019,Food and beverages,16
+3/5/2019,Fashion accessories,12
+3/5/2019,Electronic accessories,3
+3/6/2019,Sports and travel,30
+3/6/2019,Electronic accessories,14
+3/6/2019,Home and lifestyle,9
+3/6/2019,Food and beverages,7
+3/6/2019,Fashion accessories,2
+3/6/2019,Health and beauty,1
+3/7/2019,Home and lifestyle,12
+3/7/2019,Electronic accessories,10
+3/7/2019,Health and beauty,9
+3/7/2019,Fashion accessories,4
+3/7/2019,Food and beverages,2
+3/8/2019,Home and lifestyle,16
+3/8/2019,Fashion accessories,15
+3/8/2019,Health and beauty,12
+3/8/2019,Food and beverages,11
+3/8/2019,Electronic accessories,6
+3/9/2019,Sports and travel,26
+3/9/2019,Fashion accessories,24
+3/9/2019,Electronic accessories,14
+3/9/2019,Food and beverages,14
+3/9/2019,Health and beauty,14
+3/9/2019,Home and lifestyle,7
