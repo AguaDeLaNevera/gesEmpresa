@@ -67,3 +67,5 @@ def generate3DGraphic(data, salary_in_usd, experience_level, company_size, compa
         margin=dict(r=20, l=10, b=10, t=10))
     fig.show()
 generate3DGraphic(data, "salary_in_usd", "experience_level", "company_size", "company_location")
+
+    
