@@ -1,0 +1,51 @@
+1. "SELECT * FROM crime_scene_report WHERE date = 20180115 AND city = 'SQL City' AND type = 'murder';"
+Primer testimoni, viu al carrer Northwestern Dr a la darrera casa (“last house”): 
+
+2. "SELECT * FROM person WHERE address_street_name = 'Northwestern Dr' ORDER BY address_number ASC;"
+Segon testimoni “Annabel” que viu a Franklin Ave
+
+3. "SELECT * FROM person WHERE adress_street_name = ‘Franklin Ave’;"
+Guardam les id’s per cercar més informació.
+Morty: 14887
+Annabel: 16371
+
+Cercam dins la taula interview, per veure que han dit els testimonis, per a fer-ho, utilitz les id’s de adalt, no les license_id’s si no les id’s de la persona.
+
+4. "SELECT * FROM interview WHERE person_id 0 '14887';"
+5. "SELECT * FROM interview WHERE person_id 0 '16371';"
+Morty ha dit que l’assassí duia una bossa del gimnàs la qual només tenen els membres “gold”, 
+el numero de la membresia començava amb “48Z” i la persona es va ficar a un cotxe que tenia una matricula que contenia els caracters “H42W”. 
+Amb aquesta informació, començ a investigar per la taula del gimnàs.
+
+6. "SELECT * FROM get_fit_now_member WHERE membership_status = 'gold' AND id LIKE '48Z%';"
+7. "SELECT * FROM drivers_license WHERE plate_number LIKE '%H42W%';"
+Utilitzaré aquestes IDs per obtenir informació de la taula persona, i veure si algun nom coincideix amb la cerca anterior a la taula gimnàs.
+
+8. "SELECT * FROM person WHERE license_id = '183779' OR license_id = '423327' OR license_id = '664760';"
+“Jeremy Bowers” ha aparescut a les dues cerques, és a dir, que la seva matricula conté els caracters “H42W”, 
+el seu número de membresia al gimnàs comença per “48Z” i és un membre “gold” al gimnàs. 
+Concorda al 100% amb la descripció d’uns dels testimonis, és a dir que miraré amem si Jeremy és realment l’assassí.
+
+9. "INSERT INTO solution VALUES (1, 'Jeremy Bowers');"
+10. "SELECT value FROM solution;"
+“Jeremy Bowers” és l’assassí.
+
+Per trobar l’altre implicat en l’assassinat, cercam a l’interview de Jeremy Bowers
+11. "SELECT * FROM interview WHERE person_id = '67318';"
+Amb aquesta informació, faig una cerca a la taula drivers_license.
+
+12. "SELECT * FROM drivers_license WHERE hair_color = 'red' AND gender = 'female' AND height > 64 AND height < 68 AND car_make = 'Tesla' AND car_model = 'Model S';"
+Cercam les ids de la taula persona utilitzant les 3 license_id’s de les sospitoses.
+
+13. "SELECT id FROM person WHERE license_id = '202298' OR license_id = '291182' OR license_id = '918773';"
+Això son les 3 sospitoses que ens retorna. Mirarem amem si amb la taula del Facebook event podem aconseguir més informació.
+
+14. "SELECT * FROM facebook_event_checkin WHERE person_id = '99716';"
+Les altres ID’s no tenien cap Facebook event, com veim, la ID 99716, nom Miranda Priestly ha assistit 3 vegades al SQL Symphony Concert, com havia descrit anteriorment l’assassí Jeremy.
+
+15. "INSERT INTO solution VALUES (1, 'Miranda Pirestly');"
+16. "SELECT value FROM solution;"
+Jeremy Bowers és l’assassí i Miranda Priestly és la implicada en l’assassinat.
+
+
+
