@@ -1,0 +1,18 @@
+Q3
+a) En la teva opinió, quins dels aspectes enumerats tenen més importància alhora d’implantar un ERP exitosament? anomenen, per ordre d’importància, 3 d’ells.
+
+Començar a treballar amb temps.
+Escollir l’ERP adequat a l’organització.
+Esprémer al màxim la fase de tracte comercial.
+
+b) Qui ha de dur la responsabilitat de la implantació?
+
+En el punt 10 del decàleg, s'indica que és essencial un gerent de projecte de primera línia directiva amb la capacitat d'adopció de decisions i suport directiu.
+
+c) Per a quin tipus d’implantació creus que es refereix el text?
+
+El text no especifica explícitament el tipus d'implantació, però es fa referència a la necessitat d'analitzar les operacions de l’organització, la informació que es gestiona i els sistemes d’informació existents. També es destaca la importància de triar un ERP adequat i d'ajustar les funcionalitats del programa a les necessitats específiques.
+
+d) Que és important a la fase de postimplantació?
+
+A la fase de postimplantació, és important mantenir el sistema actualitzat a partir de les actualitzacions proporcionades pel fabricant. El contracte de suport o manteniment inclou aspectes com hores de suport, descomptes, accés a actualitzacions, etc.

@@ -1,0 +1,51 @@
+Q4
+1) 
+Els sistemes CRM implantats per complementar un sistema de gestió empresarial provoquen duplicitat de bases de dades (bàsicament en els clients i en els productes que comercialitza l’organització), fet que necessita alguna implementació de comunicació d’informació entre ambdós sistemes.
+
+El mòdul clients potencials està dissenyat per introduir les persones o organitzacions amb oportunitat d’esdevenir clients en un futur.
+
+El mòdul de contactes permet gestionar les persones o organitzacions associades a un client, amb les quals l’organització es comunica amb la intenció de generar una oportunitat de negoci amb el client.
+
+El mòdul de productes permet gestionar els articles susceptibles de ser venuts.
+
+El mòdul de canal permet recollir tots els contactes entre l’organització i els clients (reals o potencials), sigui quin sigui el mètode pel qual s’estableixin (telefònic, correu electrònic, fax, visita comercial, estand d’una fira, visita identificada al lloc web…), enregistrant tots els detalls del contacte i les possibles accions pendents d’executar arran del contacte, amb la data, el responsable i el contingut.
+
+El mòdul d’informes i gràfics, ajuda l’organització a obtenir informes a mida que ajuden a prendre decisions oportunes de negoci.
+
+Els sistemes CRM també poden incorporar mòduls per facilitar funcions pròpies d’acció comercial: comandes de venda, ofertes, suport i facturació.
+2)
+Avui en dia, els desplegaments d’aplicacions empresarials que ens podem trobar poden tenir lloc en dos nivells: on-premise (a les instal·lacions de l’organització) o cloud computing (dues modalitats de IaaS/PaaS).
+Les aplicacions empresarials actuals estan desenvolupades sota l’arquitectura web de 3 capes i, en conseqüència, cal disposar de servidor d’aplicacions, servidor web i servidor de dades.
+Per fer front a aquestes necessitats, cal avaluar què necessitem i què tenim:
+Cal identificar els requeriments directes de maquinari necessaris pel programari de gestió a instal·lar.
+Cal identificar el sistema gestor de bases de dades que pot utilitzar el programari de gestió a instal·lar.
+Cal identificar els requeriments indirectes de maquinari que són conseqüència del sistema gestor de bases de dades a instal·lar.
+Cal identificar mecanismes idonis de còpies de seguretat i de recuperació del sistema informàtic davant qualsevol problema.
+3)
+Les característiques fonamentals que defineixen un ERP són: ser un sistema modular, ser un sistema adaptable i ser un sistema integral.
+L’apartat d’administració d’un ERP permet definir les parametres de funcionament, configurar els registres i definir l’esquema de seguretat.
+Clients, proveïdors i productes acostumen a ser les dades mestres d’un ERP.
+En un sistema ERP, entenem per bé o servei tot allò que l’empresa ven (article), hagi estat adquirit o produït per l’empresa i tot allò que l’empresa adquireix per poder satisfer les necessitats de producció (primeres matèries).
+Les taules bàsiques són fitxers amb pocs registres i amb poca volatilitat, que contenen definicions codificades de conceptes a utilitzar en diverses àrees de l’ERP.
+4)
+Arquitectura en la qual un servidor web facilita, a través dels navegadors, la connexió als servidors d’aplicacions, que gestionen les dades d’un o diversos sistemes gestors de bases de dades.
+
+Definició: Arquitectura de tres capes o arquitectura web de tres capes.
+Desplegament del sistema informàtic a les instal·lacions de l’organització.
+
+Definició: On-premise.
+L’organització lloga tots els serveis (maquinari, sistema operatiu i aplicacions) al núvol, desentenent-se de qualsevol tipus de manteniment.
+
+Definició: Cloud computing (SaaS - Software as a Service).
+L’organització lloga maquinari virtual al núvol en el qual instal·la el sistema operatiu i les aplicacions, fent-se càrrec del manteniment del programari.
+
+Definició: Cloud computing (PaaS - Platform as a Service).
+Arquitectura en la qual les aplicacions i les dades resideixen en un servidor i les aplicacions s’executen en ordinadors clients, aprofitant la capacitat de processament dels ordinadors personals.
+
+Definició: Arquitectura client-servidor.
+L’organització lloga una plataforma (maquinari i sistema operatiu) en el núvol, en el qual instal·la les aplicacions, fent-se càrrec únicament del manteniment de les aplicacions.
+
+Definició: Cloud computing (IaaS - Infrastructure as a Service).
+Arquitectura en la qual els usuaris disposen, en els seus ordinadors, d’aplicacions simples que els permeten executar les aplicacions allotjades en un o diversos servidors d’aplicacions, que gestionen les dades d’un o diversos sistemes gestors de bases de dades.
+
+Definició: Arquitectura de client lleuger (Thin Client).

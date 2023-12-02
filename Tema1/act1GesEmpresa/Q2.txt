@@ -1,0 +1,21 @@
+Q2
+a) Quin va ser el precursor dels sistemes ERP?
+
+Els sistemes ERP (Enterprise Resource Planning) es van desenvolupar a partir dels sistemes MRP (Materials Requirement Planning), que van sorgir en la dècada de 1960. Així que podríem considerar els sistemes MRP com a precursors dels ERP.
+
+b) Un programari lliure pot tenir un cost econòmic?
+
+El programari lliure pot tenir un cost econòmic en termes de suport, personalització i altres serveis associats. Tot i que el programari en si mateix pot ser gratuït (segons la llicència lliure que utilitzi, com ara GNU GPL), els costos poden derivar de la implementació, el manteniment i altres serveis relacionats.
+
+c) Quin article regula els drets de cessió de propietat intel·lectual per menors de 18 anys?
+
+Article 44, Reial Decret Llei 1/1996, del 12 d’Abril
+
+d) Quina durada tenen els drets d’explotació d’una obra? 
+
+50 anys. 
+Cita: “Los derechos de explotación reconocidos a los artistas intérpretes o ejecutantes tendrán una duración de cincuenta años, computados desde el día 1 de enero del año siguiente al de la interpretación o ejecución”
+
+e) A partir de quin article es parla dels programes d’ordinador? a quin títol i pàgina correspon?
+
+A partir del article 96, títol VII

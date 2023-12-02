@@ -37,5 +37,3 @@ def createEstudiGraph(date, quantity):
     plt.legend(loc='best')
     plt.grid(True)
     plt.show()
-
-createEstudiGraph("Date", "Quantity")

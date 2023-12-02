@@ -1,0 +1,49 @@
+Q1
+a)Cercau les llicències d’almenys dos d’aquests recursos i expliqueu quins permisos proporcionen i que es el que limiten:
+
+Foto 1: CC BY-SA 4.0
+Foto 2: CC BY-SA 3.0
+
+CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International License):
+
+Reconeixement (Attribution): T'han de donar crèdit, donant a conèixer qui és l'autor original de l'obra.
+Compartir Igual (ShareAlike): Les obres derivades han de distribuir-se sota una llicència idèntica o similar a aquesta.
+
+CC BY-SA 3.0 (Creative Commons Attribution-ShareAlike 3.0 Unported License):
+
+Reconeixement (Attribution): T'han de donar crèdit, donant a conèixer qui és l'autor original de l'obra.
+Compartir Igual (ShareAlike): Les obres derivades han de distribuir-se sota una llicència idèntica o similar a aquesta.
+
+b) Has trobat una fotografia per la xarxa amb una llicència Creative Commons BY-SA-NC. 
+
+La pots modificar i redistribuir? 
+La pots comercialitzar?
+Pots canviar la llicència d'ús?
+Pots ometre l’autor?
+
+Si has trobat una fotografia amb una llicència Creative Commons BY-SA-NC (Reconeixement - Compartir Igual - No Comercial), això significa que:
+
+Modificar i Redistribuir:
+
+Sí, pots modificar la fotografia i redistribuir la versió modificada sempre que compleixis amb les altres condicions de la llicència.
+Comercialitzar:
+
+No, no pots utilitzar la fotografia amb finalitats comercials. La clàusula "No Comercial" (NC) significa que no pots guanyar diners directament mitjançant l'ús de la fotografia.
+Canviar la Llicència d'Ús:
+
+No pots canviar la llicència d'ús de la fotografia original. Has de distribuir qualsevol obra derivada amb la mateixa llicència, és a dir, Creative Commons BY-SA-NC.
+Ometre l'Autor:
+
+No pots ometre l'autor original. La clàusula "Reconeixement" (BY) requereix que reconeguis l'autor de la obra original.
+
+En resum, pots modificar i redistribuir la fotografia sempre que compleixis amb les condicions de la llicència BY-SA-NC. No pots utilitzar-la amb finalitats comercials, has de mantenir la mateixa llicència per a les obres derivades i has de donar el crèdit adequat a l'autor original.
+c) Has generat una imatge i la vols compartir a la xarxa. No vols que ningú la pugui emprar per obtenir beneficis, pero vols permetre que es pugui modificar i re-distribuir baix la mateixa llicència sempre que et mencionin. Quin tipus de llicència CC escolliries?
+
+En aquest cas, seria apropiat escollir la llicència Creative Commons BY-SA-NC (Reconeixement - Compartir Igual - No Comercial). Aquesta llicència compleix amb les preferències:
+
+Reconeixement (BY): L'autor original serà reconegut, ja que has expressat el desig que et mencionin.
+Compartir Igual (SA): Les obres derivades hauran de distribuir-se sota la mateixa llicència, permetent la modificació i redistribució amb la condició que es mantingui la mateixa llicència.
+No Comercial (NC): Es prohibeix l'ús amb finalitats comercials, assegurant que ningú pugui obtenir beneficis econòmics directes amb la teva imatge.
+d) Quina és la llicència més adequada desde el teu punt de vista i perquè?
+
+La llicència Creative Commons BY-SA-NC seria la més adequada segons les meves preferències. Amb aquesta llicència, assegures que l'autor sigui reconegut, permetent la modificació i redistribució sota la mateixa llicència, mentre evites l'ús comercial. Aquesta elecció proporciona un equilibri entre la protecció dels teus drets com a autor i la promoció de la col·laboració i la creació col·lectiva a través de la possibilitat de modificació i redistribució.
